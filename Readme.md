@@ -11,13 +11,13 @@ We worked on Instagram posts by Aman Kharwal, a data specialist who shared his o
 Then cleaning data we analyzed impressions from different sources:
 ![alt text](eda_process.png)
 
-Distribution of impressions received from home
+Distributions of impressions received from home
 ![alt text](Dist_Imp_for_home.png)
 
-Distribution of impressions received from hashtags
+Distributions of impressions received from hashtags
 ![alt text](Dist_Imp_from_hastags.png)
 
-Distribution of impressions received from explore
+Distributions of impressions received from explore
 ![alt text](Dist_Imp_from_explore.png)
 
 Impressions On Instragram From Various Sources
